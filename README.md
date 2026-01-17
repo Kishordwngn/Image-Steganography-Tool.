@@ -10,3 +10,16 @@ A cybersecurity tool developed to hide secret text messages inside images using 
 
 ### ⚙️ How it Works
 It modifies the last bit of pixel values to embed text data. The change is so subtle that the human eye cannot detect any difference in the image.
+
+## 🚀 Getting Started
+### 🔹 Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kishordwngn/Image-Steganography-Tool..git
+   cd Image Steganography
+   ```
+
+3. Run 
+   ```bash
+   python app.py
+   ```
